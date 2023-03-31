@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "author": {
+        "name": "John Smith",
+        "image": "https://www.example.com/images/john-smith.jpg"
+      },
+      "blog_title": "The Importance of Sleep for Productivity",
+      "images": {
+        "blog_cover_image": "https://www.example.com/images/sleep-blog-cover.jpg",
+        "author_image": "https://www.example.com/images/john-smith.jpg"
+      },
+      "read_time": "5 min read",
+      "publish_date": "2022-01-01"
+    },
+    {
+      "id": 2,
+      "author": {
+        "name": "Sarah Johnson",
+        "image": "https://www.example.com/images/sarah-johnson.jpg"
+      },
+      "blog_title": "The Benefits of Meditation for Mental Health",
+      "images": {
+        "blog_cover_image": "https://www.example.com/images/meditation-blog-cover.jpg",
+        "author_image": "https://www.example.com/images/sarah-johnson.jpg"
+      },
+      "read_time": "8 min read",
+      "publish_date": "2022-02-15"
+    },
+    {
+      "id": 3,
+      "author": {
+        "name": "Mark Lee",
+        "image": "https://www.example.com/images/mark-lee.jpg"
+      },
+      "blog_title": "How to Build a Successful Startup",
+      "images": {
+        "blog_cover_image": "https://www.example.com/images/startup-blog-cover.jpg",
+        "author_image": "https://www.example.com/images/mark-lee.jpg"
+      },
+      "read_time": "10 min read",
+      "publish_date": "2022-03-23"
+    },
+    {
+      "id": 4,
+      "author": {
+        "name": "Emily Davis",
+        "image": "https://www.example.com/images/emily-davis.jpg"
+      },
+      "blog_title": "The Top 5 Travel Destinations for 2022",
+      "images": {
+        "blog_cover_image": "https://www.example.com/images/travel-blog-cover.jpg",
+        "author_image": "https://www.example.com/images/emily-davis.jpg"
+      },
+      "read_time": "12 min read",
+      "publish_date": "2022-04-30"
+    }
+  ]

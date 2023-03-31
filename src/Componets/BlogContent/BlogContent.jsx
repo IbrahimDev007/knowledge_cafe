@@ -4,7 +4,7 @@ import { faBookmark } from '@fortawesome/free-solid-svg-icons'
 
 const BlogContent = () => {
     return (
-        <div className='m-4'>
+        <div className='m-4 col-span-8 p-2'>
             <img src="" alt="" className='w-full ' />
             <div className='flex  justify-between'>
               <div>
