@@ -10,7 +10,7 @@
         "blog_cover_image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "author_image": "https://i.pravatar.cc/150?img=1"
       },
-      "read_time": "5",
+      "read_time":5,
       "publish_date": "2023-03-30"
     },
     {
@@ -24,7 +24,7 @@
         "blog_cover_image": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
         "author_image": "https://i.pravatar.cc/150?img=2"
       },
-      "read_time": "8",
+      "read_time":8,
       "publish_date": "2023-03-28"
     },
     {
@@ -38,7 +38,7 @@
         "blog_cover_image": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=600",
         "author_image": "https://i.pravatar.cc/150?img=3"
       },
-      "read_time": "10",
+      "read_time":10,
       "publish_date": "2023-03-25"
     },
     {
@@ -52,7 +52,7 @@
         "blog_cover_image": "https://robkendal.co.uk/img/10-debugging-tips-blog-post.png",
         "author_image": "https://i.pravatar.cc/150?img=4"
       },
-      "read_time": "12",
+      "read_time":12,
       "publish_date": "2023-03-20"
     }
   ]
