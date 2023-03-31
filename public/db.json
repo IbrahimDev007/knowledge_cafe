@@ -2,57 +2,57 @@
     {
       "id": 1,
       "author": {
-        "name": "John Smith",
-        "image": "https://www.example.com/images/john-smith.jpg"
+        "name": "John Doe",
+        "image": "https://i.pravatar.cc/150?img=1"
       },
-      "blog_title": "The Importance of Sleep for Productivity",
+      "blog_title": "Introduction to JavaScript",
       "images": {
-        "blog_cover_image": "https://www.example.com/images/sleep-blog-cover.jpg",
-        "author_image": "https://www.example.com/images/john-smith.jpg"
+        "blog_cover_image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "author_image": "https://i.pravatar.cc/150?img=1"
       },
-      "read_time": "5 min read",
-      "publish_date": "2022-01-01"
+      "read_time": "5",
+      "publish_date": "2023-03-30"
     },
     {
       "id": 2,
       "author": {
-        "name": "Sarah Johnson",
-        "image": "https://www.example.com/images/sarah-johnson.jpg"
+        "name": "Jane Smith",
+        "image": "https://i.pravatar.cc/150?img=2"
       },
-      "blog_title": "The Benefits of Meditation for Mental Health",
+      "blog_title": "10 Tips for Writing Clean Code in Python",
       "images": {
-        "blog_cover_image": "https://www.example.com/images/meditation-blog-cover.jpg",
-        "author_image": "https://www.example.com/images/sarah-johnson.jpg"
+        "blog_cover_image": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "author_image": "https://i.pravatar.cc/150?img=2"
       },
-      "read_time": "8 min read",
-      "publish_date": "2022-02-15"
+      "read_time": "8",
+      "publish_date": "2023-03-28"
     },
     {
       "id": 3,
       "author": {
-        "name": "Mark Lee",
-        "image": "https://www.example.com/images/mark-lee.jpg"
+        "name": "Mark Johnson",
+        "image": "https://i.pravatar.cc/150?img=3"
       },
-      "blog_title": "How to Build a Successful Startup",
+      "blog_title": "Getting Started with React",
       "images": {
-        "blog_cover_image": "https://www.example.com/images/startup-blog-cover.jpg",
-        "author_image": "https://www.example.com/images/mark-lee.jpg"
+        "blog_cover_image": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "author_image": "https://i.pravatar.cc/150?img=3"
       },
-      "read_time": "10 min read",
-      "publish_date": "2022-03-23"
+      "read_time": "10",
+      "publish_date": "2023-03-25"
     },
     {
       "id": 4,
       "author": {
         "name": "Emily Davis",
-        "image": "https://www.example.com/images/emily-davis.jpg"
+        "image": "https://i.pravatar.cc/150?img=4"
       },
-      "blog_title": "The Top 5 Travel Destinations for 2022",
+      "blog_title": "Debugging Tips and Tricks for JavaScript",
       "images": {
-        "blog_cover_image": "https://www.example.com/images/travel-blog-cover.jpg",
-        "author_image": "https://www.example.com/images/emily-davis.jpg"
+        "blog_cover_image": "https://robkendal.co.uk/img/10-debugging-tips-blog-post.png",
+        "author_image": "https://i.pravatar.cc/150?img=4"
       },
-      "read_time": "12 min read",
-      "publish_date": "2022-04-30"
+      "read_time": "12",
+      "publish_date": "2023-03-20"
     }
   ]
