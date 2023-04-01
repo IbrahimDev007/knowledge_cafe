@@ -9,7 +9,7 @@ const Blog = () => {
 	const [times, settimes] = useState(0);
 	const [titles, setTitles] = useState([]);
 	useEffect(() => {
-		fetch("/public/db.json")
+		fetch("db.json")
 			.then((res) => res.json())
 			.then((data) => setBlog(data));
 	}, []);

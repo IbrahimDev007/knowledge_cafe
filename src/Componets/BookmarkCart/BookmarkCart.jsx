@@ -4,7 +4,7 @@ const BookmarkCart = ({ times, titles }) => {
 	return (
 		<div className=" bg-slate-200 col-span-2  w-full">
 			<div className="bg-violet-400 flex justify-center items-center border-solid border-violet-900  m-3 h-10 text-violet-800 text-md ">
-				Spent Time on read {times}
+				Spent Time on read: {times} min
 			</div>
 			<h1 className="text-md  m-3 h-10 text-blue-600 text-center">
 				Bookmark Blogs:{titles.length}
