@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import BlogContent from "../BlogContent/BlogContent";
 import BookmarkCart from "../BookmarkCart/BookmarkCart";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Blog = () => {
 	const [blog, setBlog] = useState([]);
@@ -15,11 +17,14 @@ const Blog = () => {
 	const handleClickTitle = (real_title) => {
         const exact=titles.find((title) => title === real_title);
 		if (exact) {
-			console.log(true);
+            toast("You Have Already Bookmarked This Blog!");
+          const title = [...titles, real_title];
+          setTitles(title);
+        
 		} else {
 			const title = [...titles, real_title];
 			setTitles(title);
-			console.log(false);
+			
 		}
 	};
 
@@ -35,6 +40,7 @@ const Blog = () => {
 				handleClickTitle={handleClickTitle}
 			/>
 			<BookmarkCart times={times} titles={titles} />
+            <ToastContainer />
 		</div>
 	);
 };
