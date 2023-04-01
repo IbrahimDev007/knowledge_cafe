@@ -12,7 +12,7 @@ const BookmarkCart = ({ times, titles }) => {
 			<div>
 				{titles.map((title, id) => (
 					<div
-						className=" m-3 h-10 py-3 text-black flex justify-center items-center  bg-white textarea-md "
+						className=" m-3 h-15 py-3 px-1 text-black flex justify-center items-center  bg-white text-md "
 						key={id}
 					>
 						{title}
